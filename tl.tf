@@ -140,7 +140,7 @@ depends_on = [
 ]
   bucket       = "1398abhisingh911"
    key        = "img"
-  source       = "C:/Users/196AKS/Desktop/Cloud Intern/Terraform/task1/aa.jpg "
+  source       = "/a/aa.jpg "
   acl          = "public-read"
   content_type = "image or jpg"
 }
